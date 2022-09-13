@@ -29,7 +29,7 @@ env:
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
-  TZ: Europe/Madrid
+  TZ: Asia/Shanghai
 
 jobs:
   build:
